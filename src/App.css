@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+
+/*CUSTOM*/
+
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.block{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px;
+}
+
+.button{
+  background-color: blue;
+  color: white;
+}
